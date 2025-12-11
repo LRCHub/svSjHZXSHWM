@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夜になったら耿十八は",
+  "base_artist": "Peg",
+  "createdAt": "2025-12-11T08:52:03.959603Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜になったら耿十八は",
+      "artist": "Peg",
+      "has_synced": false,
+      "path": "select/01_夜になったら耿十八は_Peg.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜になったら耿十八は",
+      "artist": "Peg",
+      "has_synced": false,
+      "path": "select/pl_01_夜になったら耿十八は_Peg.txt"
+    }
+  ]
+}
